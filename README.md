@@ -4,10 +4,10 @@ Eine kleine App zum Erstellen der optimalen Rundreise zwischen bis zu 11 Orten. 
 A small app for creating the optimal roundtrip between up to 11 places. Uses Nearest-Neighbour-Algorithm to find upper bound and 2-Opt to optimize the route. Written in February 2017 for a Code Competition sponsored by Hermes. 
 
 # Bewertung / Evaluation
-Funktionalität / Functionality: 7
-Code Qualität/ Code Quality: 6
-Dokumentation/Lesbarkeit / Documentation/Readability: 8
-Setup: 9
+Funktionalität / Functionality: 7  
+Code Qualität/ Code Quality: 6  
+Dokumentation/Lesbarkeit / Documentation/Readability: 8  
+Setup: 9  
 
 Feedback zu Deiner Abgabe:
 Vielen Dank für Deine TSP-Lösung! Die Applikation erfüllt die Anforderung mehrere Wegpunkte einzugeben und die Route anschließend optimiert auszugeben. Dein Code ist gut kommentiert worden. Wir hätten uns allerdings eine klarere Trennung von GUI-Elementen und Algorithmus-Implementierung gewünscht. Deine Methoden sind schön kurz gehalten und Du setzt bestehende Komponenten  z.B. android.location sinnvoll ein. Kleiner Verbesserungsvorschlag: Eine dynamische Erzeugung von Addresseingabefeldern würde Redundanz im Code vermeiden. Die App war auch dank der ReadMe-Datei einfach zu installieren.
