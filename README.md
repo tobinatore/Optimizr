@@ -1,7 +1,11 @@
 # Optimizr
 Eine kleine App zum Erstellen der optimalen Rundreise zwischen bis zu 11 Orten. Es werden die Nearest-Neighbour-Heuristik zum Ermitteln der Obergrenze, sowie die 2-Opt-Heuristik zum Optimieren der Route benutzt. Die App wurde im Februar 2017 im Rahmen einer von Hermes gesponserten Code-Competition geschrieben.
 
+Ich habe das Google-Token zur Anzeige der Karte im Lösungsbereich deaktiviert, also nicht wundern wenn keine Karte auftaucht ;)
+
 A small app for creating the optimal roundtrip between up to 11 places. Uses Nearest-Neighbour-Algorithm to find upper bound and 2-Opt to optimize the route. Written in February 2017 for a Code Competition sponsored by Hermes. 
+
+I've deactivated the Google-Token which enabled the map to show the found roundtrip, which in return means the map won't be there anymore.
 
 # Bewertung / Evaluation
 Funktionalität / Functionality: 7  
